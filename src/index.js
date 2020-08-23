@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import "./index.css";
 
 import { GifExpertApp } from "./GifExpertApp";
-
+//edited
 ReactDOM.render(
   <GifExpertApp />,
 
